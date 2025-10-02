@@ -24,7 +24,7 @@ expense-tracker/
 ## ⚙️ How to Run
 
 1. Run the script  
-```bash
+bash
 python expense_tracker.py
 or (Windows)
 
